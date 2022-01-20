@@ -1,0 +1,1 @@
+const somaStrings = console.log('Otter' + 'wise')
